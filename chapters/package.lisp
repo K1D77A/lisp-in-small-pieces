@@ -1,4 +1,5 @@
 ;;;; package.lisp
 
 (defpackage #:lisp-in-small-pieces
-  (:use #:cl))
+  (:use #:cl)
+  (:nicknames :LiSP))
